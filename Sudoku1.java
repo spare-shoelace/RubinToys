@@ -26,8 +26,9 @@ public class Sudoku {
         Sudoku su = new Sudoku(problem);
         System.out.println("Sudoku to Solve:");
         su.display();
-        
+
         if(su.isSolved()){
+            System.out.println("Solution to Sudoku:");
             su.display();
         }
         else{
@@ -101,5 +102,4 @@ public class Sudoku {
         }
         System.out.println();
     }
-
 }
