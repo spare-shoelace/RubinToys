@@ -1,2 +1,2 @@
 # RubinToys
-This appears to be an appropriate medium to submit my code 
+This appears to be an appropriate place to submit my code
